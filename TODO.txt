@@ -1,3 +1,4 @@
 -Faire les TPs
 -Envoyer le document avec toutes les réponses aux TPs
 -Envoyer le lien au professeurs
+-Ligne ajouté
